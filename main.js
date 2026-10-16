@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (btnSaludo) {
     btnSaludo.addEventListener('click', () => {
-      alert('¡Hola! Proyecto de Git de ASIX cargado e interactivo.');
+      alert('¡Hola! Proyecto de Git de ASIX cargado e interactivos.');
     });
   }
 });
